@@ -1,0 +1,93 @@
+Enter the number of candidates : 
+5
+Enter the names of candidates:
+a
+b
+c
+d
+e
+Enter no. of candidates in waiting room : 
+2
+Enter your choice
+1
+In Interview Room -->  null
+Waiting Room  -->  [a, b]
+Reception  -->  [c, d, e]
+Enter your choice
+2
+a enters interview room
+Enter your choice
+1
+In Interview Room -->  a
+Waiting Room  -->  [b, c]
+Reception  -->  [d, e]
+Enter your choice
+3
+a leaves interview room
+Enter your choice
+1
+In Interview Room -->  null
+Waiting Room  -->  [b, c]
+Reception  -->  [d, e]
+Enter your choice
+2
+b enters interview room
+Enter your choice
+1
+In Interview Room -->  b
+Waiting Room  -->  [c, d]
+Reception  -->  [e]
+Enter your choice
+3
+b leaves interview room
+Enter your choice
+1
+In Interview Room -->  null
+Waiting Room  -->  [c, d]
+Reception  -->  [e]
+Enter your choice
+2
+c enters interview room
+Enter your choice
+1
+In Interview Room -->  c
+Waiting Room  -->  [d, e]
+Reception  -->  []
+Enter your choice
+3
+c leaves interview room
+Enter your choice
+1
+In Interview Room -->  null
+Waiting Room  -->  [d, e]
+Reception  -->  []
+Enter your choice
+2
+d enters interview room
+Enter your choice
+1
+In Interview Room -->  d
+Waiting Room  -->  [e]
+Reception  -->  []
+Enter your choice
+3
+d leaves interview room
+Enter your choice
+1
+In Interview Room -->  null
+Waiting Room  -->  [e]
+Reception  -->  []
+Enter your choice
+2
+e enters interview room
+Enter your choice
+1
+In Interview Room -->  e
+Waiting Room  -->  []
+Reception  -->  []
+Enter your choice
+3
+e leaves interview room
+Interview Ends!!
+
+Process finished with exit code 0
